@@ -1,0 +1,73 @@
+*{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url('cream.png');
+    background-size: cover;
+     }
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+.head{
+    text-align: left;
+    position: relative;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.photo{
+    float:right
+    
+}
+img {
+    max-width: 30%;
+    height: auto;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+header, section, footer {
+    padding: 50px 0;
+}
+
+header h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 18px;
+    color: #777;
+}
+
+section h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+ 
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.project img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 20px 0;
+}
